@@ -1,0 +1,44 @@
+HELLO WELCOME TO LINUX COMMAND WORLD
+1. Directory Navigation:
+ls: Lists files and directories in the current directory.
+cd: Changes the current working directory.
+pwd: Prints the current working directory.
+mkdir: Creates a new directory.
+rmdir: Removes an empty directory. 
+2. File Management:
+cp: Copies files or directories.
+mv: Moves or renames files or directories.
+rm: Removes files or directories.
+touch: Creates an empty file or updates the last modified time of an existing file.
+cat: Displays the contents of a file.
+echo: Prints text to the terminal.
+less: Displays file contents interactively, page by page. 
+3. System and Process Management:
+grep: Searches for patterns in text.
+sudo: Executes commands with superuser privileges.
+man: Displays the manual pages for a command.
+ps: Lists running processes.
+top: Displays a dynamic view of system processes.
+kill: Sends a signal to a process to stop it.
+df: Displays disk space usage.
+du: Estimates the disk space usage of files and directories.
+uname: Prints system information.
+whoami: Displays the current username.
+history: Displays a list of previously executed commands. 
+4. Networking:
+ping: Tests connectivity to a remote host.
+traceroute: Traces the route packets take to a remote host.
+ssh: Securely connects to a remote server.
+scp: Securely copies files between systems.
+wget: Downloads files from the web.
+curl: Transfers data using various protocols. 
+5. Archiving and Compression: 
+tar: Creates archives of files and directories.
+gzip: Compresses files.
+gunzip: Decompresses files.
+zip: Creates zip archives.
+unzip: Extracts files from zip archives. 
+6. Permissions and Ownership:
+chmod: Changes file access permissions.
+chown: Changes file ownership.
+chgrp: Changes group ownership.
